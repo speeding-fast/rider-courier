@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Bomi</fullName>
+        <default>false</default>
+        <label>Bomi</label>
+    </customValue>
+    <customValue>
+        <fullName>Bong</fullName>
+        <default>false</default>
+        <label>Bong</label>
+    </customValue>
+    <customValue>
+        <fullName>Gbarpolu</fullName>
+        <default>false</default>
+        <label>Gbarpolu</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Bassa</fullName>
+        <default>false</default>
+        <label>Grand Bassa</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Capemount</fullName>
+        <default>false</default>
+        <label>Grand Capemount</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Gedeh</fullName>
+        <default>false</default>
+        <label>Grand Gedeh</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Kru</fullName>
+        <default>false</default>
+        <label>Grand Kru</label>
+    </customValue>
+    <customValue>
+        <fullName>Lofa</fullName>
+        <default>false</default>
+        <label>Lofa</label>
+    </customValue>
+    <customValue>
+        <fullName>Margibi</fullName>
+        <default>false</default>
+        <label>Margibi</label>
+    </customValue>
+    <customValue>
+        <fullName>Maryland</fullName>
+        <default>false</default>
+        <label>Maryland</label>
+    </customValue>
+    <customValue>
+        <fullName>Montserrado</fullName>
+        <default>false</default>
+        <label>Montserrado</label>
+    </customValue>
+    <customValue>
+        <fullName>Nimba</fullName>
+        <default>false</default>
+        <label>Nimba</label>
+    </customValue>
+    <customValue>
+        <fullName>Rivercess</fullName>
+        <default>false</default>
+        <label>Rivercess</label>
+    </customValue>
+    <customValue>
+        <fullName>Rivergee</fullName>
+        <default>false</default>
+        <label>Rivergee</label>
+    </customValue>
+    <customValue>
+        <fullName>Sinoe</fullName>
+        <default>false</default>
+        <label>Sinoe</label>
+    </customValue>
+    <masterLabel>Liberia County</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Active_Courier</fullName>
+    <columns>NAME</columns>
+    <columns>IDSR_ID__c</columns>
+    <columns>Purpose_of_Trip__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>End_Kilometer__c</field>
+        <operation>equals</operation>
+    </filters>
+    <label>Active Courier</label>
+</ListView>

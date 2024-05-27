@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>All Region</fullName>
+        <default>false</default>
+        <label>All Region</label>
+    </customValue>
+    <customValue>
+        <fullName>Region 1</fullName>
+        <default>false</default>
+        <label>Region 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Region 2</fullName>
+        <default>false</default>
+        <label>Region 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Region 3</fullName>
+        <default>false</default>
+        <label>Region 3</label>
+    </customValue>
+    <masterLabel>Region</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

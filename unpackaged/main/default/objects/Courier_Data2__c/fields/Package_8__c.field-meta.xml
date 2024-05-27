@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Package_8__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Package: 8</label>
+    <referenceTo>Sample_Package__c</referenceTo>
+    <relationshipLabel>Courier Data (Package: 8)</relationshipLabel>
+    <relationshipName>Courier_Data7</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

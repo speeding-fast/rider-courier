@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Courier_Pickup_site__c</fullName>
+    <externalId>false</externalId>
+    <label>Courier Pickup site</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Facilities</valueSetName>
+    </valueSet>
+</CustomField>

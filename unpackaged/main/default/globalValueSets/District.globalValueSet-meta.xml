@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>LGH BOMI HOSPITAL(BASE STATION)</fullName>
+        <default>false</default>
+        <label>LGH BOMI HOSPITAL(BASE STATION)</label>
+    </customValue>
+    <customValue>
+        <fullName>SASS TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>SASS TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>YOMO TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>YOMO TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JENNEH #3 CLINIC</fullName>
+        <default>false</default>
+        <label>JENNEH #3 CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SUEHN MECCA CLINIC</fullName>
+        <default>false</default>
+        <label>SUEHN MECCA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GOGEHN TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>GOGEHN TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BEH TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>BEH TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SIME DARBY</fullName>
+        <default>false</default>
+        <label>SIME DARBY</label>
+    </customValue>
+    <customValue>
+        <fullName>BONGEH CLINIC</fullName>
+        <default>false</default>
+        <label>BONGEH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>FEFEH TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>FEFEH TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GONJEH</fullName>
+        <default>false</default>
+        <label>GONJEH</label>
+    </customValue>
+    <customValue>
+        <fullName>BEHSAO CLINIC</fullName>
+        <default>false</default>
+        <label>BEHSAO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GOHNZIPO</fullName>
+        <default>false</default>
+        <label>GOHNZIPO</label>
+    </customValue>
+    <customValue>
+        <fullName>SANOYEA CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>SANOYEA CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>TOTOTA CLINIC</fullName>
+        <default>false</default>
+        <label>TOTOTA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SALALA CLINIC</fullName>
+        <default>false</default>
+        <label>SALALA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>FENUTOLI CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>FENUTOLI CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>GBATALA CLINIC</fullName>
+        <default>false</default>
+        <label>GBATALA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ZEANSUE</fullName>
+        <default>false</default>
+        <label>ZEANSUE</label>
+    </customValue>
+    <customValue>
+        <fullName>Tamayta</fullName>
+        <default>false</default>
+        <label>Tamayta</label>
+    </customValue>
+    <customValue>
+        <fullName>Bong Mine Hospital</fullName>
+        <default>false</default>
+        <label>Bong Mine Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>PHEBE HOSPITAL</fullName>
+        <default>false</default>
+        <label>PHEBE HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>Foequellah</fullName>
+        <default>false</default>
+        <label>Foequellah</label>
+    </customValue>
+    <customValue>
+        <fullName>Garmue</fullName>
+        <default>false</default>
+        <label>Garmue</label>
+    </customValue>
+    <customValue>
+        <fullName>PALALA CLINIC</fullName>
+        <default>false</default>
+        <label>PALALA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>AFRICAN FUNDAMENTAL BAPTIST</fullName>
+        <default>false</default>
+        <label>AFRICAN FUNDAMENTAL BAPTIST</label>
+    </customValue>
+    <customValue>
+        <fullName>WAINSUE</fullName>
+        <default>false</default>
+        <label>WAINSUE</label>
+    </customValue>
+    <customValue>
+        <fullName>CB DUNBAR HOSPITAL</fullName>
+        <default>false</default>
+        <label>CB DUNBAR HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>GBARMA CLINIC</fullName>
+        <default>false</default>
+        <label>GBARMA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>WEASUA CLINIC</fullName>
+        <default>false</default>
+        <label>WEASUA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>YANGAYA</fullName>
+        <default>false</default>
+        <label>YANGAYA</label>
+    </customValue>
+    <customValue>
+        <fullName>BAMBUTA CLINIC</fullName>
+        <default>false</default>
+        <label>BAMBUTA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>TOTOQUELLE</fullName>
+        <default>false</default>
+        <label>TOTOQUELLE</label>
+    </customValue>
+    <customValue>
+        <fullName>HENRY TOWN</fullName>
+        <default>false</default>
+        <label>HENRY TOWN</label>
+    </customValue>
+    <customValue>
+        <fullName>GBANGAY CLINIC</fullName>
+        <default>false</default>
+        <label>GBANGAY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KPAYEAKWELLEH</fullName>
+        <default>false</default>
+        <label>KPAYEAKWELLEH</label>
+    </customValue>
+    <customValue>
+        <fullName>Morlakwelle Clinic</fullName>
+        <default>false</default>
+        <label>Morlakwelle Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>GBARYAMAH CLINIC</fullName>
+        <default>false</default>
+        <label>GBARYAMAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Sis. D Clinic</fullName>
+        <default>false</default>
+        <label>Sis. D Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>GOKALA CLINIC</fullName>
+        <default>false</default>
+        <label>GOKALA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CHIEF JALLAHLONE HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>CHIEF JALLAHLONE HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>LIBERIA GOVERNMENT HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>LIBERIA GOVERNMENT HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>CAMPHOR MISSION CLINIC</fullName>
+        <default>false</default>
+        <label>CAMPHOR MISSION CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ST PETER CATHOLIC CLINIC</fullName>
+        <default>false</default>
+        <label>ST PETER CATHOLIC CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CHRISTIAN EXTENSION MINISTRY CLINIC</fullName>
+        <default>false</default>
+        <label>CHRISTIAN EXTENSION MINISTRY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>TUBMANVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>TUBMANVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ARCELORMITTAL HOSPITAL</fullName>
+        <default>false</default>
+        <label>ARCELORMITTAL HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>COMPOUND #4 CLINIC</fullName>
+        <default>false</default>
+        <label>COMPOUND #4 CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>LITTLE KOLA CLINIC</fullName>
+        <default>false</default>
+        <label>LITTLE KOLA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CEEGBAH CLINIC *Relay center</fullName>
+        <default>false</default>
+        <label>CEEGBAH CLINIC *Relay center</label>
+    </customValue>
+    <customValue>
+        <fullName>LIBINCO CLINIC</fullName>
+        <default>false</default>
+        <label>LIBINCO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JORIAM CLINIC</fullName>
+        <default>false</default>
+        <label>JORIAM CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>COMPUND #3 CLINIC</fullName>
+        <default>false</default>
+        <label>COMPUND #3 CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BOEGLAY CLINIC</fullName>
+        <default>false</default>
+        <label>BOEGLAY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BARSEGIAH CLINIC</fullName>
+        <default>false</default>
+        <label>BARSEGIAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>LAC HOSPITAL</fullName>
+        <default>false</default>
+        <label>LAC HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>GARDOUR CLINIC</fullName>
+        <default>false</default>
+        <label>GARDOUR CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>OWENSGROOVE CLINIC  (Base station)</fullName>
+        <default>false</default>
+        <label>OWENSGROOVE CLINIC  (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>BOKLAY TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>BOKLAY TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>COMPOUND #1 CLINIC</fullName>
+        <default>false</default>
+        <label>COMPOUND #1 CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>COMPOUND #2 CLINIC</fullName>
+        <default>false</default>
+        <label>COMPOUND #2 CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ST JOHN CLINIC</fullName>
+        <default>false</default>
+        <label>ST JOHN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SENYAH CLINIC</fullName>
+        <default>false</default>
+        <label>SENYAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>EDINA CLINIC</fullName>
+        <default>false</default>
+        <label>EDINA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>WELLBABY CLINIC</fullName>
+        <default>false</default>
+        <label>WELLBABY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Ceegbah</fullName>
+        <default>false</default>
+        <label>Ceegbah</label>
+    </customValue>
+    <customValue>
+        <fullName>LIBINCO</fullName>
+        <default>false</default>
+        <label>LIBINCO</label>
+    </customValue>
+    <customValue>
+        <fullName>Little Kola</fullName>
+        <default>false</default>
+        <label>Little Kola</label>
+    </customValue>
+    <customValue>
+        <fullName>Compound 4 Clinic.</fullName>
+        <default>false</default>
+        <label>Compound 4 Clinic.</label>
+    </customValue>
+    <customValue>
+        <fullName>Gareoline</fullName>
+        <default>false</default>
+        <label>Gareoline</label>
+    </customValue>
+    <customValue>
+        <fullName>SD Medical Cooper</fullName>
+        <default>false</default>
+        <label>SD Medical Cooper</label>
+    </customValue>
+    <customValue>
+        <fullName>Praise Clinic.</fullName>
+        <default>false</default>
+        <label>Praise Clinic.</label>
+    </customValue>
+    <customValue>
+        <fullName>Little Bassa Clinic</fullName>
+        <default>false</default>
+        <label>Little Bassa Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Lloydsville Clinic</fullName>
+        <default>false</default>
+        <label>Lloydsville Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>VARGUAYE CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>VARGUAYE CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>LOFA BRIDGE CLINIC</fullName>
+        <default>false</default>
+        <label>LOFA BRIDGE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KINJOR CLINIC</fullName>
+        <default>false</default>
+        <label>KINJOR CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ST TIMOTHY HOSPITAL (base station)</fullName>
+        <default>false</default>
+        <label>ST TIMOTHY HOSPITAL (base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>JUNDU CLINIC</fullName>
+        <default>false</default>
+        <label>JUNDU CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>MADINA CLINIC</fullName>
+        <default>false</default>
+        <label>MADINA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>MAMBO  CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>MAMBO  CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>RICHARD &amp; HELLEN DEVOX MEDICAL CENTER</fullName>
+        <default>false</default>
+        <label>RICHARD &amp; HELLEN DEVOX MEDICAL CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>Tienii Clinic</fullName>
+        <default>false</default>
+        <label>Tienii Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>BO - WATERSIDE CLINIC.</fullName>
+        <default>false</default>
+        <label>BO - WATERSIDE CLINIC.</label>
+    </customValue>
+    <customValue>
+        <fullName>KPENEGI CLINIC</fullName>
+        <default>false</default>
+        <label>KPENEGI CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SINJE HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>SINJE HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>Kulangor Clinic,</fullName>
+        <default>false</default>
+        <label>Kulangor Clinic,</label>
+    </customValue>
+    <customValue>
+        <fullName>Fahnja Clinic</fullName>
+        <default>false</default>
+        <label>Fahnja Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>MARTHA TUBMAN MEMORIAL HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>MARTHA TUBMAN MEMORIAL HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>TOE TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>TOE TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBARZON HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>GBARZON HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>PUT PENNOKEN CLINIC</fullName>
+        <default>false</default>
+        <label>PUT PENNOKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBOLEKEN CLINIC</fullName>
+        <default>false</default>
+        <label>GBOLEKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Galakpo Clinic</fullName>
+        <default>false</default>
+        <label>Galakpo Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>TOFFOI TOWN</fullName>
+        <default>false</default>
+        <label>TOFFOI TOWN</label>
+    </customValue>
+    <customValue>
+        <fullName>ZAI TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>ZAI TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>DUOGEE TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>DUOGEE TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JANZON CLINIC</fullName>
+        <default>false</default>
+        <label>JANZON CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Kanneh Clinic</fullName>
+        <default>false</default>
+        <label>Kanneh Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>BARZON POLAR CLINIC</fullName>
+        <default>false</default>
+        <label>BARZON POLAR CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BOUNDARY CLINIC</fullName>
+        <default>false</default>
+        <label>BOUNDARY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Ziah Town</fullName>
+        <default>false</default>
+        <label>Ziah Town</label>
+    </customValue>
+    <customValue>
+        <fullName>KUMAH TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>KUMAH TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KARLORWLEH CLINIC</fullName>
+        <default>false</default>
+        <label>KARLORWLEH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KONOBO HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>KONOBO HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>Christ The King Clinic.</fullName>
+        <default>false</default>
+        <label>Christ The King Clinic.</label>
+    </customValue>
+    <customValue>
+        <fullName>TUZON CLINIC</fullName>
+        <default>false</default>
+        <label>TUZON CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BARCLAYVILLE HEALTH CENTER (Base station)</fullName>
+        <default>false</default>
+        <label>BARCLAYVILLE HEALTH CENTER (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>RALLY TIME HOSPITAL</fullName>
+        <default>false</default>
+        <label>RALLY TIME HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>GBALAKPO CLINIC</fullName>
+        <default>false</default>
+        <label>GBALAKPO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBANKEN CLINIC</fullName>
+        <default>false</default>
+        <label>GBANKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBLEBO CLINIC</fullName>
+        <default>false</default>
+        <label>GBLEBO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Nyankupo Clinic</fullName>
+        <default>false</default>
+        <label>Nyankupo Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>BEHWAN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>BEHWAN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>GARRAWAY CLINIC</fullName>
+        <default>false</default>
+        <label>GARRAWAY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GENOYAH</fullName>
+        <default>false</default>
+        <label>GENOYAH</label>
+    </customValue>
+    <customValue>
+        <fullName>BUAH HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>BUAH HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>SASSTOWN MATERNITY HOSPITAL</fullName>
+        <default>false</default>
+        <label>SASSTOWN MATERNITY HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>PINICESS CLINIC</fullName>
+        <default>false</default>
+        <label>PINICESS CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>NEWAKEN CLINIC</fullName>
+        <default>false</default>
+        <label>NEWAKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Kpaiyea Clinic</fullName>
+        <default>false</default>
+        <label>Kpaiyea Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>TELLEWOYAN HOSPITAL (Basa station)</fullName>
+        <default>false</default>
+        <label>TELLEWOYAN HOSPITAL (Basa station)</label>
+    </customValue>
+    <customValue>
+        <fullName>BONDI CLINIC</fullName>
+        <default>false</default>
+        <label>BONDI CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>VAZALA CLINIC</fullName>
+        <default>false</default>
+        <label>VAZALA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>LAWALAZU</fullName>
+        <default>false</default>
+        <label>LAWALAZU</label>
+    </customValue>
+    <customValue>
+        <fullName>BARKEDU CLINIC</fullName>
+        <default>false</default>
+        <label>BARKEDU CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SARKONEDU CLINIC</fullName>
+        <default>false</default>
+        <label>SARKONEDU CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KONIA CLINIC</fullName>
+        <default>false</default>
+        <label>KONIA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CURREN LUTHERAN HOSPITAL</fullName>
+        <default>false</default>
+        <label>CURREN LUTHERAN HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>BARZIWEN</fullName>
+        <default>false</default>
+        <label>BARZIWEN</label>
+    </customValue>
+    <customValue>
+        <fullName>LUYEAMA</fullName>
+        <default>false</default>
+        <label>LUYEAMA</label>
+    </customValue>
+    <customValue>
+        <fullName>Fissebu Community Clinic</fullName>
+        <default>false</default>
+        <label>Fissebu Community Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Sucromu Clinic</fullName>
+        <default>false</default>
+        <label>Sucromu Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>BORKEZA</fullName>
+        <default>false</default>
+        <label>BORKEZA</label>
+    </customValue>
+    <customValue>
+        <fullName>Balagwolazu Clinic</fullName>
+        <default>false</default>
+        <label>Balagwolazu Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>GANGLOTA*RELAY CENTRE</fullName>
+        <default>false</default>
+        <label>GANGLOTA*RELAY CENTRE</label>
+    </customValue>
+    <customValue>
+        <fullName>Foyah Bomah Hospital  (Base station)</fullName>
+        <default>false</default>
+        <label>Foyah Bomah Hospital  (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>Yeagbedu Clinic</fullName>
+        <default>false</default>
+        <label>Yeagbedu Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Shelloe Clinic</fullName>
+        <default>false</default>
+        <label>Shelloe Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Foya Health Center</fullName>
+        <default>false</default>
+        <label>Foya Health Center</label>
+    </customValue>
+    <customValue>
+        <fullName>VAHUN HEALTH CENTER (Base station)</fullName>
+        <default>false</default>
+        <label>VAHUN HEALTH CENTER (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>POPALAHUN CLINIC</fullName>
+        <default>false</default>
+        <label>POPALAHUN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KAMATAHUN CLINIC</fullName>
+        <default>false</default>
+        <label>KAMATAHUN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KATAHUN CLINIC</fullName>
+        <default>false</default>
+        <label>KATAHUN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KOLAHUN HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>KOLAHUN HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>BOLAHUN</fullName>
+        <default>false</default>
+        <label>BOLAHUN</label>
+    </customValue>
+    <customValue>
+        <fullName>FANGODA</fullName>
+        <default>false</default>
+        <label>FANGODA</label>
+    </customValue>
+    <customValue>
+        <fullName>KORWALAHUN</fullName>
+        <default>false</default>
+        <label>KORWALAHUN</label>
+    </customValue>
+    <customValue>
+        <fullName>KARWORHUN CLINIC</fullName>
+        <default>false</default>
+        <label>KARWORHUN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GORLU CLINIC</fullName>
+        <default>false</default>
+        <label>GORLU CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Porluma Clinic</fullName>
+        <default>false</default>
+        <label>Porluma Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>SALAYEA CLINIC</fullName>
+        <default>false</default>
+        <label>SALAYEA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Zolowo Clinic</fullName>
+        <default>false</default>
+        <label>Zolowo Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>GBONYEA CLINIC</fullName>
+        <default>false</default>
+        <label>GBONYEA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBANWAY CLINIC</fullName>
+        <default>false</default>
+        <label>GBANWAY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>YARPUAH CLINIC</fullName>
+        <default>false</default>
+        <label>YARPUAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CH Rennie Hospital  (Base station)</fullName>
+        <default>false</default>
+        <label>CH Rennie Hospital  (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>CITY CLINIC</fullName>
+        <default>false</default>
+        <label>CITY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BARKOLLEH HEALTH CENTRE</fullName>
+        <default>false</default>
+        <label>BARKOLLEH HEALTH CENTRE</label>
+    </customValue>
+    <customValue>
+        <fullName>CINTA CLINIC</fullName>
+        <default>false</default>
+        <label>CINTA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Tucker Ta Clinic</fullName>
+        <default>false</default>
+        <label>Tucker Ta Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Kakata Health center</fullName>
+        <default>false</default>
+        <label>Kakata Health center</label>
+    </customValue>
+    <customValue>
+        <fullName>WEALA COMMUNITY CLINIC</fullName>
+        <default>false</default>
+        <label>WEALA COMMUNITY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Massaquoi Town Health Center</fullName>
+        <default>false</default>
+        <label>Massaquoi Town Health Center</label>
+    </customValue>
+    <customValue>
+        <fullName>HARBEL HEALTH CENTER (Base station)</fullName>
+        <default>false</default>
+        <label>HARBEL HEALTH CENTER (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>COTTON  TREE HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>COTTON  TREE HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>DOLLO&apos;S TOWN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>DOLLO&apos;S TOWN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>UNIFICATION TOWN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>UNIFICATION TOWN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>Marshall health center</fullName>
+        <default>false</default>
+        <label>Marshall health center</label>
+    </customValue>
+    <customValue>
+        <fullName>CHARLESVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>CHARLESVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SCHIFLINE TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>SCHIFLINE TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PETER TOWN CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>PETER TOWN CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>WOHM TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>WOHM TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SRC HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>SRC HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>YANWELLIE CLINIC</fullName>
+        <default>false</default>
+        <label>YANWELLIE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>NEW DESTINY CLINIC</fullName>
+        <default>false</default>
+        <label>NEW DESTINY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>LAYKAY-TA CLINIC</fullName>
+        <default>false</default>
+        <label>LAYKAY-TA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PAL CLINIC - KAKATA</fullName>
+        <default>false</default>
+        <label>PAL CLINIC - KAKATA</label>
+    </customValue>
+    <customValue>
+        <fullName>MOSES SAMMIE CLINIC</fullName>
+        <default>false</default>
+        <label>MOSES SAMMIE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JJ DORSEN HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>JJ DORSEN HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>SACRED HEART CLINIC</fullName>
+        <default>false</default>
+        <label>SACRED HEART CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PULLAH CLINIC</fullName>
+        <default>false</default>
+        <label>PULLAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CAVALLAH CLINIC</fullName>
+        <default>false</default>
+        <label>CAVALLAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ROCK TOWN CLINC</fullName>
+        <default>false</default>
+        <label>ROCK TOWN CLINC</label>
+    </customValue>
+    <customValue>
+        <fullName>PLEEBO HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>PLEEBO HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>ST FRANCIS CLINIC</fullName>
+        <default>false</default>
+        <label>ST FRANCIS CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>OLD SODOKEN CLINIC</fullName>
+        <default>false</default>
+        <label>OLD SODOKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BONIKEN CLINIC</fullName>
+        <default>false</default>
+        <label>BONIKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Edith H. Wallace Health Center</fullName>
+        <default>false</default>
+        <label>Edith H. Wallace Health Center</label>
+    </customValue>
+    <customValue>
+        <fullName>Barriken Clinic</fullName>
+        <default>false</default>
+        <label>Barriken Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>MANOLU CLINIC</fullName>
+        <default>false</default>
+        <label>MANOLU CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>YOOKUDI</fullName>
+        <default>false</default>
+        <label>YOOKUDI</label>
+    </customValue>
+    <customValue>
+        <fullName>GBLOKEN</fullName>
+        <default>false</default>
+        <label>GBLOKEN</label>
+    </customValue>
+    <customValue>
+        <fullName>CRC</fullName>
+        <default>false</default>
+        <label>CRC</label>
+    </customValue>
+    <customValue>
+        <fullName>Juluken Clinic</fullName>
+        <default>false</default>
+        <label>Juluken Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Worteken</fullName>
+        <default>false</default>
+        <label>Worteken</label>
+    </customValue>
+    <customValue>
+        <fullName>REDEMPTION HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>REDEMPTION HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>Wroto Community Clinic</fullName>
+        <default>false</default>
+        <label>Wroto Community Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>CLARA TOWN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>CLARA TOWN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>SONINWEN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>SONINWEN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>KINGSVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>KINGSVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Union  (Base station)</fullName>
+        <default>false</default>
+        <label>Union  (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>JF KENNEDY HOSPITAL</fullName>
+        <default>false</default>
+        <label>JF KENNEDY HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>ST JOSEPH CATHOLIC HOSPITAL</fullName>
+        <default>false</default>
+        <label>ST JOSEPH CATHOLIC HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>Old Road Community Clinic</fullName>
+        <default>false</default>
+        <label>Old Road Community Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>JAMES N. DAVID HOSPITAL  (Base station)</fullName>
+        <default>false</default>
+        <label>JAMES N. DAVID HOSPITAL  (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>DUPORT ROAD HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>DUPORT ROAD HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>DR. AGNES VARIS</fullName>
+        <default>false</default>
+        <label>DR. AGNES VARIS</label>
+    </customValue>
+    <customValue>
+        <fullName>LIBERIA ALBINO SOCIETY CLINIC</fullName>
+        <default>false</default>
+        <label>LIBERIA ALBINO SOCIETY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ELWA Hospital</fullName>
+        <default>false</default>
+        <label>ELWA Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>GROUP OF 77</fullName>
+        <default>false</default>
+        <label>GROUP OF 77</label>
+    </customValue>
+    <customValue>
+        <fullName>Goba TOWN</fullName>
+        <default>false</default>
+        <label>Goba TOWN</label>
+    </customValue>
+    <customValue>
+        <fullName>PIPELINE HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>PIPELINE HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>AL-HALI CLINIC</fullName>
+        <default>false</default>
+        <label>AL-HALI CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>STAR OF THE SEA HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>STAR OF THE SEA HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>BISHOP JOHN COLLINS HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>BISHOP JOHN COLLINS HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>Bushrod Community Clinic</fullName>
+        <default>false</default>
+        <label>Bushrod Community Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Sis. Barbara Ann Health Center((Base station)</fullName>
+        <default>false</default>
+        <label>Sis. Barbara Ann Health Center((Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>DAQMOW</fullName>
+        <default>false</default>
+        <label>DAQMOW</label>
+    </customValue>
+    <customValue>
+        <fullName>NEW GEORGIA HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>NEW GEORGIA HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>GARDNERSVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>GARDNERSVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>RCD MARSHALL</fullName>
+        <default>false</default>
+        <label>RCD MARSHALL</label>
+    </customValue>
+    <customValue>
+        <fullName>S.D. Cooper Hospital</fullName>
+        <default>false</default>
+        <label>S.D. Cooper Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>GANTA HOSPITAL(RELAY CENTRE)</fullName>
+        <default>false</default>
+        <label>GANTA HOSPITAL(RELAY CENTRE)</label>
+    </customValue>
+    <customValue>
+        <fullName>J.F DOE MEMORIAL HOSPITAL( Base station)</fullName>
+        <default>false</default>
+        <label>J.F DOE MEMORIAL HOSPITAL( Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>CONSOLATA CLINIC</fullName>
+        <default>false</default>
+        <label>CONSOLATA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>MID BAPTIST CLINIC</fullName>
+        <default>false</default>
+        <label>MID BAPTIST CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KWEDIN CLINIC</fullName>
+        <default>false</default>
+        <label>KWEDIN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GRAIE TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>GRAIE TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SACLEPEA HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>SACLEPEA HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>DIALLAH CLINIC</fullName>
+        <default>false</default>
+        <label>DIALLAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GANTA UNITED METHODIST HOSPITAL( Base station)</fullName>
+        <default>false</default>
+        <label>GANTA UNITED METHODIST HOSPITAL( Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>K.L FOUNDATION</fullName>
+        <default>false</default>
+        <label>K.L FOUNDATION</label>
+    </customValue>
+    <customValue>
+        <fullName>GANTA COMMUNITY CLINIC</fullName>
+        <default>false</default>
+        <label>GANTA COMMUNITY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>E&amp;J HOSPITAL</fullName>
+        <default>false</default>
+        <label>E&amp;J HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>ZEKEPA HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>ZEKEPA HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>G.W. HARLEY HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>G.W. HARLEY HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>ST. MARY CLINIC</fullName>
+        <default>false</default>
+        <label>ST. MARY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>LUGBEYEE CLINIC</fullName>
+        <default>false</default>
+        <label>LUGBEYEE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>EQUIP CLINIC</fullName>
+        <default>false</default>
+        <label>EQUIP CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>YEKEPA HOSPITAL</fullName>
+        <default>false</default>
+        <label>YEKEPA HOSPITAL</label>
+    </customValue>
+    <customValue>
+        <fullName>POWER HOUSE CLINIC</fullName>
+        <default>false</default>
+        <label>POWER HOUSE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SACLEPEA HEALTH CENTER(Base station)</fullName>
+        <default>false</default>
+        <label>SACLEPEA HEALTH CENTER(Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>BAHN HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>BAHN HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>D.M.M.C, SACLEPEA CLINIC</fullName>
+        <default>false</default>
+        <label>D.M.M.C, SACLEPEA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KPAYTUO CLINIC</fullName>
+        <default>false</default>
+        <label>KPAYTUO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>FLUMPA CLINIC</fullName>
+        <default>false</default>
+        <label>FLUMPA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BEIDEIN CLINIC</fullName>
+        <default>false</default>
+        <label>BEIDEIN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KARNWEE CLINIC</fullName>
+        <default>false</default>
+        <label>KARNWEE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>COCOPA CLINIC</fullName>
+        <default>false</default>
+        <label>COCOPA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SACLEPEA U.L.I.C MISSION CLINIC</fullName>
+        <default>false</default>
+        <label>SACLEPEA U.L.I.C MISSION CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>E&amp;J HOSPITAL(RELAY CENTER)</fullName>
+        <default>false</default>
+        <label>E&amp;J HOSPITAL(RELAY CENTER)</label>
+    </customValue>
+    <customValue>
+        <fullName>KARNPLAY HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>KARNPLAY HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>DUOPLAY CLINIC</fullName>
+        <default>false</default>
+        <label>DUOPLAY CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>WEHPLAY</fullName>
+        <default>false</default>
+        <label>WEHPLAY</label>
+    </customValue>
+    <customValue>
+        <fullName>GBEDIAH CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>GBEDIAH CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>GBLORSEO CLINIC</fullName>
+        <default>false</default>
+        <label>GBLORSEO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SAHYAH CLINIC</fullName>
+        <default>false</default>
+        <label>SAHYAH CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>FEN RIVER</fullName>
+        <default>false</default>
+        <label>FEN RIVER</label>
+    </customValue>
+    <customValue>
+        <fullName>ST FRANCIS HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>ST FRANCIS HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>OPEN BIBLE CLINIC</fullName>
+        <default>false</default>
+        <label>OPEN BIBLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>TIMBO COMPOUND CLINIC</fullName>
+        <default>false</default>
+        <label>TIMBO COMPOUND CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>INLAND CLINIC</fullName>
+        <default>false</default>
+        <label>INLAND CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>CHARLIE&apos;S TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>CHARLIE&apos;S TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ITI CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>ITI CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>NEEEZUIN CLINIC</fullName>
+        <default>false</default>
+        <label>NEEEZUIN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>DORBOR CLINIC</fullName>
+        <default>false</default>
+        <label>DORBOR CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Cheboken Clinic</fullName>
+        <default>false</default>
+        <label>Cheboken Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>FISHTOWN HOSPITAL (Base station)</fullName>
+        <default>false</default>
+        <label>FISHTOWN HOSPITAL (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>SARBO HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>SARBO HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>TUOBO CLINIC</fullName>
+        <default>false</default>
+        <label>TUOBO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JIMMYVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>JIMMYVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>NYAAKEN CLINIC</fullName>
+        <default>false</default>
+        <label>NYAAKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PRONOKEN CLINIC</fullName>
+        <default>false</default>
+        <label>PRONOKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>GBEAPO HEALTH CENTER</fullName>
+        <default>false</default>
+        <label>GBEAPO HEALTH CENTER</label>
+    </customValue>
+    <customValue>
+        <fullName>DRUGBO CLINIC</fullName>
+        <default>false</default>
+        <label>DRUGBO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ST.KIZITO CLINIC</fullName>
+        <default>false</default>
+        <label>ST.KIZITO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JARKAKEN CLINIC</fullName>
+        <default>false</default>
+        <label>JARKAKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KILLEPO CLINIC</fullName>
+        <default>false</default>
+        <label>KILLEPO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PUTUKEN CLINIC</fullName>
+        <default>false</default>
+        <label>PUTUKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JAYPROKEN CLINIC</fullName>
+        <default>false</default>
+        <label>JAYPROKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>FJ Grante Hospital  (Basestation)</fullName>
+        <default>false</default>
+        <label>FJ Grante Hospital  (Basestation)</label>
+    </customValue>
+    <customValue>
+        <fullName>WIAH TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>WIAH TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JUARZON CLINIC</fullName>
+        <default>false</default>
+        <label>JUARZON CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ROSELYN TOE MASSAQUOI CLINIC</fullName>
+        <default>false</default>
+        <label>ROSELYN TOE MASSAQUOI CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ENI CLINIC</fullName>
+        <default>false</default>
+        <label>ENI CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JACKSONVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>JACKSONVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>TOGBAVILLE CLINIC</fullName>
+        <default>false</default>
+        <label>TOGBAVILLE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>DR. ALEXANDER P. TOKPA CLINIC</fullName>
+        <default>false</default>
+        <label>DR. ALEXANDER P. TOKPA CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KWITATUZON CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>KWITATUZON CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>MENWAH WALKER CLINIC</fullName>
+        <default>false</default>
+        <label>MENWAH WALKER CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>JUARYEN CLINIC</fullName>
+        <default>false</default>
+        <label>JUARYEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KARQUEKPO CLINIC</fullName>
+        <default>false</default>
+        <label>KARQUEKPO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>DIYANKPO CLINIC</fullName>
+        <default>false</default>
+        <label>DIYANKPO CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>Edward Memorial clinic</fullName>
+        <default>false</default>
+        <label>Edward Memorial clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>GRISBY FARM CLINIC</fullName>
+        <default>false</default>
+        <label>GRISBY FARM CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>WEAH TOWN CLINIC</fullName>
+        <default>false</default>
+        <label>WEAH TOWN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>SEESEE CLINIC</fullName>
+        <default>false</default>
+        <label>SEESEE CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>ST JOSEPH CATHOLIC CLINIC</fullName>
+        <default>false</default>
+        <label>ST JOSEPH CATHOLIC CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>BUTAW CLINIC</fullName>
+        <default>false</default>
+        <label>BUTAW CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PELLOKEN CLINIC</fullName>
+        <default>false</default>
+        <label>PELLOKEN CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>TUBMANVILLE CLINIC (Base station)</fullName>
+        <default>false</default>
+        <label>TUBMANVILLE CLINIC (Base station)</label>
+    </customValue>
+    <customValue>
+        <fullName>SAYWON CLINIC</fullName>
+        <default>false</default>
+        <label>SAYWON CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>PANAMA CLINC</fullName>
+        <default>false</default>
+        <label>PANAMA CLINC</label>
+    </customValue>
+    <customValue>
+        <fullName>SRC CLINIC</fullName>
+        <default>false</default>
+        <label>SRC CLINIC</label>
+    </customValue>
+    <customValue>
+        <fullName>KABADA CLINC</fullName>
+        <default>false</default>
+        <label>KABADA CLINC</label>
+    </customValue>
+    <customValue>
+        <fullName>KILO</fullName>
+        <default>false</default>
+        <label>KILO</label>
+    </customValue>
+    <customValue>
+        <fullName>DOODWIEKEN</fullName>
+        <default>false</default>
+        <label>DOODWIEKEN</label>
+    </customValue>
+    <customValue>
+        <fullName>GBASON</fullName>
+        <default>false</default>
+        <label>GBASON</label>
+    </customValue>
+    <masterLabel>District</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

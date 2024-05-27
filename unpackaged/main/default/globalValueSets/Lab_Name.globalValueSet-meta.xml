@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>C.H. Rennie Hospital</fullName>
+        <default>false</default>
+        <label>C.H. Rennie Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Emirate Hospital</fullName>
+        <default>false</default>
+        <label>Emirate Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>F.J. Grante Hospital</fullName>
+        <default>false</default>
+        <label>F.J. Grante Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Fish Town Hospital</fullName>
+        <default>false</default>
+        <label>Fish Town Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Ganta Rehab Center</fullName>
+        <default>false</default>
+        <label>Ganta Rehab Center</label>
+    </customValue>
+    <customValue>
+        <fullName>J.J. Dossen Memorial Hospital</fullName>
+        <default>false</default>
+        <label>J.J. Dossen Memorial Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Jackson F. Doe Memorial Hospital</fullName>
+        <default>false</default>
+        <label>Jackson F. Doe Memorial Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Kolahun Hospital</fullName>
+        <default>false</default>
+        <label>Kolahun Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Liberia Government Hospital-Bassa</fullName>
+        <default>false</default>
+        <label>Liberia Government Hospital-Bassa</label>
+    </customValue>
+    <customValue>
+        <fullName>Liberia Government Hospital-Bomi</fullName>
+        <default>false</default>
+        <label>Liberia Government Hospital-Bomi</label>
+    </customValue>
+    <customValue>
+        <fullName>LIBR</fullName>
+        <default>false</default>
+        <label>LIBR</label>
+    </customValue>
+    <customValue>
+        <fullName>Martha Tubman Memorial Hospital</fullName>
+        <default>false</default>
+        <label>Martha Tubman Memorial Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>NACP</fullName>
+        <default>false</default>
+        <label>NACP</label>
+    </customValue>
+    <customValue>
+        <fullName>NDS</fullName>
+        <default>false</default>
+        <label>NDS</label>
+    </customValue>
+    <customValue>
+        <fullName>Neezuin Clinic</fullName>
+        <default>false</default>
+        <label>Neezuin Clinic</label>
+    </customValue>
+    <customValue>
+        <fullName>Rally Time Hospital</fullName>
+        <default>false</default>
+        <label>Rally Time Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Redemption Hospital</fullName>
+        <default>false</default>
+        <label>Redemption Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Rivercess District Referral Hospital</fullName>
+        <default>false</default>
+        <label>Rivercess District Referral Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>Sinje Health Center</fullName>
+        <default>false</default>
+        <label>Sinje Health Center</label>
+    </customValue>
+    <customValue>
+        <fullName>Sis. Barbaras Ann Health Center</fullName>
+        <default>false</default>
+        <label>Sis. Barbaras Ann Health Center</label>
+    </customValue>
+    <customValue>
+        <fullName>St. Francis Hospital</fullName>
+        <default>false</default>
+        <label>St. Francis Hospital</label>
+    </customValue>
+    <customValue>
+        <fullName>TB Annex</fullName>
+        <default>false</default>
+        <label>TB Annex</label>
+    </customValue>
+    <customValue>
+        <fullName>Tellewonyan Memorial Hospital</fullName>
+        <default>false</default>
+        <label>Tellewonyan Memorial Hospital</label>
+    </customValue>
+    <masterLabel>Lab Name</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>

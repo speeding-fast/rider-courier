@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Acute Bloody Diarrhea (Shigellosis)</fullName>
+        <default>false</default>
+        <label>Acute Bloody Diarrhea (Shigellosis)</label>
+    </customValue>
+    <customValue>
+        <fullName>AFP</fullName>
+        <default>false</default>
+        <label>AFP</label>
+    </customValue>
+    <customValue>
+        <fullName>ANC</fullName>
+        <default>false</default>
+        <label>ANC</label>
+    </customValue>
+    <customValue>
+        <fullName>Buruli Ulcer</fullName>
+        <default>false</default>
+        <label>Buruli Ulcer</label>
+    </customValue>
+    <customValue>
+        <fullName>Chicken Pox</fullName>
+        <default>false</default>
+        <label>Chicken Pox</label>
+    </customValue>
+    <customValue>
+        <fullName>Cholera (AWD)</fullName>
+        <default>false</default>
+        <label>Cholera (AWD)</label>
+    </customValue>
+    <customValue>
+        <fullName>COVID 19</fullName>
+        <default>false</default>
+        <label>COVID 19</label>
+    </customValue>
+    <customValue>
+        <fullName>Dengue Fever</fullName>
+        <default>false</default>
+        <label>Dengue Fever</label>
+    </customValue>
+    <customValue>
+        <fullName>EVD (VHF)</fullName>
+        <default>false</default>
+        <label>EVD (VHF)</label>
+    </customValue>
+    <customValue>
+        <fullName>Hepatitis B</fullName>
+        <default>false</default>
+        <label>Hepatitis B</label>
+    </customValue>
+    <customValue>
+        <fullName>Histologic</fullName>
+        <default>false</default>
+        <label>Histologic</label>
+    </customValue>
+    <customValue>
+        <fullName>HIV</fullName>
+        <default>false</default>
+        <label>HIV</label>
+    </customValue>
+    <customValue>
+        <fullName>Human Rabbies</fullName>
+        <default>false</default>
+        <label>Human Rabbies</label>
+    </customValue>
+    <customValue>
+        <fullName>Influenza</fullName>
+        <default>false</default>
+        <label>Influenza</label>
+    </customValue>
+    <customValue>
+        <fullName>Lassa Fever</fullName>
+        <default>false</default>
+        <label>Lassa Fever</label>
+    </customValue>
+    <customValue>
+        <fullName>Measle</fullName>
+        <default>false</default>
+        <label>Measle</label>
+    </customValue>
+    <customValue>
+        <fullName>Meningitis</fullName>
+        <default>false</default>
+        <label>Meningitis</label>
+    </customValue>
+    <customValue>
+        <fullName>Monkey Pox</fullName>
+        <default>false</default>
+        <label>Monkey Pox</label>
+    </customValue>
+    <customValue>
+        <fullName>TB</fullName>
+        <default>false</default>
+        <label>TB</label>
+    </customValue>
+    <customValue>
+        <fullName>Unexplained Death</fullName>
+        <default>false</default>
+        <label>Unexplained Death</label>
+    </customValue>
+    <customValue>
+        <fullName>Yaw</fullName>
+        <default>false</default>
+        <label>Yaw</label>
+    </customValue>
+    <customValue>
+        <fullName>Yellow Fever</fullName>
+        <default>false</default>
+        <label>Yellow Fever</label>
+    </customValue>
+    <masterLabel>Sample Type</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>
