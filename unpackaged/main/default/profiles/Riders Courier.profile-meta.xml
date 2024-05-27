@@ -362,6 +362,21 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SMS__c.IDSR_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SMS__c.Message__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SMS__c.User_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sample__c.Date_Sample_Collected_from_Patient__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -422,6 +437,9 @@
         <layout>Courier_Data__c-Courier Data Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>SMS__c-SMS Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Sample__c-Sample Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -457,6 +475,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Courier_Data__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>SMS__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
