@@ -460,6 +460,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Sample_Package__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Sample__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
