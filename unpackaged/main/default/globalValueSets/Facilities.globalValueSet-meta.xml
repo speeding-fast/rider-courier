@@ -921,5 +921,5 @@
         <label>Zolowo Clinic</label>
     </customValue>
     <masterLabel>Facilities</masterLabel>
-    <sorted>true</sorted>
+    <sorted>false</sorted>
 </GlobalValueSet>

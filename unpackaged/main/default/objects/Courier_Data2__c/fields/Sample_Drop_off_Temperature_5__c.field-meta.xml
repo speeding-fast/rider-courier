@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Cost_pre_gallon_in_county_US_Dollar__c</fullName>
+    <fullName>Sample_Drop_off_Temperature_5__c</fullName>
     <externalId>false</externalId>
-    <label>Cost pre gallon in county (US Dollar)</label>
-    <precision>18</precision>
+    <label>Sample Drop off Temperature</label>
     <required>false</required>
-    <scale>2</scale>
     <trackTrending>false</trackTrending>
-    <type>Number</type>
-    <unique>false</unique>
+    <type>Phone</type>
 </CustomField>

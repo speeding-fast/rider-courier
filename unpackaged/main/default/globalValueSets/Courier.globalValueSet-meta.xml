@@ -400,6 +400,31 @@
         <default>false</default>
         <label>Vicma Nyanquoi</label>
     </customValue>
+    <customValue>
+        <fullName>Zayzay Sumo</fullName>
+        <default>false</default>
+        <label>Zayzay Sumo</label>
+    </customValue>
+    <customValue>
+        <fullName>Abayomi S. Caulcrick</fullName>
+        <default>false</default>
+        <label>Abayomi S. Caulcrick</label>
+    </customValue>
+    <customValue>
+        <fullName>Eugene Trokon Gray</fullName>
+        <default>false</default>
+        <label>Eugene Trokon Gray</label>
+    </customValue>
+    <customValue>
+        <fullName>Forkpawu Kolubah</fullName>
+        <default>false</default>
+        <label>Forkpawu Kolubah</label>
+    </customValue>
+    <customValue>
+        <fullName>Joseph G. Mehdeh</fullName>
+        <default>false</default>
+        <label>Joseph G. Mehdeh</label>
+    </customValue>
     <masterLabel>Courier</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>

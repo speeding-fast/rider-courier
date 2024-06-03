@@ -13,7 +13,7 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Riders Courier</label>
     <navType>Standard</navType>
-    <tabs>Courier_Data__c</tabs>
+    <tabs>Courier_Data2__c</tabs>
     <tabs>Sample__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Riders_for_Health_UtilityBar</utilityBar>

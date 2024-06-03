@@ -125,56 +125,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Courier_Data2__c.Package_10__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_3__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_4__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_5__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_6__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_7__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_8__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Package_9__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Courier_Data2__c.Pickup_Temperature_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -200,22 +150,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Courier_Data2__c.Pickup_Temperature__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Courier_Data2__c.Previous_Courier__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Courier_Data2__c.Purpose_of_Trip__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data2__c.Refuel_Cost_US_Dollar__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -235,11 +175,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Courier_Data2__c.Sample_Drop_off_Temperature__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Courier_Data2__c.Start_Kilometer__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -251,11 +186,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Courier_Data__c.Collection_Time__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Courier_Data__c.Collection_is_from_a_relay__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -451,11 +381,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Sample__c.Next_Drop_off_Location__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Sample__c.Package_Number__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

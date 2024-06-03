@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Cost_pre_gallon_in_county_US_Dollar__c</fullName>
+    <fullName>Lab_Name_4__c</fullName>
     <externalId>false</externalId>
-    <label>Cost pre gallon in county (US Dollar)</label>
-    <precision>18</precision>
+    <label>Lab Name</label>
     <required>false</required>
-    <scale>2</scale>
     <trackTrending>false</trackTrending>
-    <type>Number</type>
-    <unique>false</unique>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Lab_Name</valueSetName>
+    </valueSet>
 </CustomField>

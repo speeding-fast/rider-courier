@@ -2,10 +2,12 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Refuel_Cost_US_Dollar__c</fullName>
     <externalId>false</externalId>
+    <formula>Cost_pre_gallon_in_county_US_Dollar__c  *  Fuel_Gallon__c</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
     <label>Refuel Cost (US Dollar)</label>
     <precision>18</precision>
     <required>false</required>
-    <scale>0</scale>
+    <scale>2</scale>
     <trackTrending>false</trackTrending>
     <type>Number</type>
     <unique>false</unique>

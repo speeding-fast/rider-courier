@@ -6,6 +6,7 @@
     <columns>End_Kilometer__c</columns>
     <columns>Purpose_of_Trip__c</columns>
     <columns>Courier_Pickup_Date__c</columns>
+    <columns>Collection_Date__c</columns>
     <filterScope>Everything</filterScope>
     <label>All Records</label>
 </ListView>
