@@ -2,10 +2,21 @@
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>All</fullName>
     <columns>NAME</columns>
+    <columns>Courier_Name__c</columns>
     <columns>Purpose_of_Trip__c</columns>
     <columns>Start_Kilometer__c</columns>
     <columns>End_Kilometer__c</columns>
     <columns>Distance_Covered__c</columns>
     <filterScope>Everything</filterScope>
+    <filters>
+        <field>Collection_is_from_a_relay__c</field>
+        <operation>equals</operation>
+        <value>yes</value>
+    </filters>
+    <filters>
+        <field>Lab_Name__c</field>
+        <operation>equals</operation>
+        <value>LIBR</value>
+    </filters>
     <label>All</label>
 </ListView>
